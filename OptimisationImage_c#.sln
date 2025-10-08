@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimisationImage_c#", "OptimisationImage_c#\OptimisationImage_c#.csproj", "{F7703F67-CE99-430D-978F-88C6A66862F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7703F67-CE99-430D-978F-88C6A66862F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7703F67-CE99-430D-978F-88C6A66862F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7703F67-CE99-430D-978F-88C6A66862F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7703F67-CE99-430D-978F-88C6A66862F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDCA82D-AA16-410C-9EB1-62E110B75FF8}
+	EndGlobalSection
+EndGlobal
