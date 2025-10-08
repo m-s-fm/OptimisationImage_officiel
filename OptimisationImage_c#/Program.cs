@@ -11,7 +11,7 @@ class ImageOptimizer
     static readonly int[] resolutions = { 1080, 720, 480 };
 
     // IMPORTANT : MODIFIEZ CE CHEMIN pour votre dossier d'images réel. 
-    static readonly string sourceDir = "C:\\Users\\masaracousti\\Desktop\\bordel\\IPI\\GenerationImageOpti";
+    static readonly string sourceDir = "C:\\Users\\masaracousti\\Desktop\\bordel\\IPI\\OptimisationImage_c#\\OptimisationImage_c#\\GenerationImageOpti";
 
     static readonly string outputDir = Path.Combine(sourceDir, "output");
 
